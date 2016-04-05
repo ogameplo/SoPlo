@@ -1,6 +1,6 @@
 #!/bin/sh
 # -*- ENCODING: UTF-8 -*-
-rm config/userdata.secret
+rm /home/juajo/Ogame/SoPlo/config/userdata.secret
 
 clear
 echo ""
@@ -16,8 +16,8 @@ sleep 3
 echo "Contraseòa de ogame: "
 read PASS
 clear
-echo USER:$USUARIO >> config/userdata.secret
-echo PASS:$PASS >> config/userdata.secret
+echo USER:$USUARIO >> /home/juajo/Ogame/SoPlo/config/userdata.secret
+echo PASS:$PASS >> /home/juajo/Ogame/SoPlo/config/userdata.secret
 echo "Sistema configurado con exito"
 
 

@@ -1,0 +1,619 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Ogniter. Cygnus: Galaxy view [1:1] (ogame.com.es) - Online Stats for Ogame</title>
+	<meta name="description" content="Ogame, Universe Cygnus (galaxy view) - ogame.com.es - [1:1]. Information about the Fantasy Browser Game Ogame.">
+	<meta name="keywords" content="Ogniter,Cygnus,Galaxy,view,[1:1],ogame.com.es,ogame,galaxy overview">
+	<meta name="author" content="Donato C. Laynes Gonzales">
+	<base href="http://www.ogniter.org/">
+	<script>
+	window.Ogniter = {
+		BASE_URL: "http://www.ogniter.org/",
+		CDN_HOST: "//cdn.ogniter.org/"
+	};
+	</script>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Ogniter. Cygnus: Galaxy view [1:1] (ogame.com.es)"/>
+	<meta property="og:url" content="http://www.ogniter.org/es/557/galaxy/1/1"/>
+	<meta property="og:description" content="Ogame, Universe Cygnus (galaxy view) - ogame.com.es - [1:1]" />
+	<meta property="og:image" content="//cdn.ogniter.org/img/home-ogniter.jpg"/>
+	<meta property="og:site_name" content="Ogniter"/>
+	<meta property="fb:app_id" content="453851131318585"/>
+
+	<link id="bs-css" href="//cdn.ogniter.org/css/bootstrap-cyborg.css" rel="stylesheet">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Shojumaru" />
+	<link href="//cdn.ogniter.org/css/combined25052013.css" rel="stylesheet">
+	<!--[if lt IE 9]>
+	  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<link rel="shortcut icon" href="//cdn.ogniter.org/img/favicon.ico">
+		<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-34506622-1']);
+	_gaq.push(['_trackPageview']);
+	(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+	//ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	</script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="//cdn.ogniter.org/js/jquery-1.7.2.min.js"><\/script>')</script>
+	</head>
+<body>
+
+	<div id="fb-root"></div>
+	<div class="container">
+		<div class="navbar">
+			<div class="navbar-inner">
+				<a class="btn btn-navbar" data-toggle="collapse" data-target=".top-nav.nav-collapse,.sidebar-nav.nav-collapse">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</a>
+				<div class="pull-left">
+					<a href="http://www.ogniter.org/"><img src="//cdn.ogniter.org/img/ogniter-logo.png" alt="Ogniter" title="Ogniter" /></a> &nbsp;
+				</div>
+								<div class="btn-group pull-left" >
+					<a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
+						<span class="hidden-phone"> <i class="flag flag-es"></i> ogame.com.es</span>
+						<span class="caret"></span>
+					</a>
+					<ul class="dropdown-menu" id="domains">
+												<li><a href="ar"><i class="flag flag-ar"></i> ogame.com.ar</a></li>
+												<li><a href="br"><i class="flag flag-br"></i> ogame.com.br</a></li>
+												<li><a href="es"><i class="flag flag-es"></i> ogame.com.es</a></li>
+												<li><a href="mx"><i class="flag flag-mx"></i> mx.ogame.org</a></li>
+												<li><a href="de"><i class="flag flag-de"></i> ogame.de</a></li>
+												<li><a href="us"><i class="flag flag-us"></i> ogame.us</a></li>
+												<li><a href="en"><i class="flag flag-gb"></i> ogame.org</a></li>
+												<li><a href="ru"><i class="flag flag-ru"></i> ogame.ru</a></li>
+												<li><a href="fr"><i class="flag flag-fr"></i> ogame.fr</a></li>
+												<li><a href="tr"><i class="flag flag-tr"></i> tr.ogame.org</a></li>
+												<li><a href="pl"><i class="flag flag-pl"></i> ogame.pl</a></li>
+												<li><a href="pt"><i class="flag flag-pt"></i> ogame.com.pt</a></li>
+												<li><a href="it"><i class="flag flag-it"></i> ogame.it</a></li>
+												<li><a href="nl"><i class="flag flag-nl"></i> ogame.nl</a></li>
+												<li><a href="dk"><i class="flag flag-dk"></i> ogame.dk</a></li>
+												<li><a href="jp"><i class="flag flag-jp"></i> ogame.jp</a></li>
+												<li><a href="hr"><i class="flag flag-hr"></i> hr.ogame.org</a></li>
+												<li><a href="no"><i class="flag flag-no"></i> ogame.no</a></li>
+												<li><a href="fi"><i class="flag flag-fi"></i> fi.ogame.org</a></li>
+												<li><a href="sk"><i class="flag flag-sk"></i> ogame.sk</a></li>
+												<li><a href="se"><i class="flag flag-se"></i> ogame.se</a></li>
+												<li><a href="yu"><i class="flag flag-ba"></i> ba.ogame.org</a></li>
+												<li><a href="cz"><i class="flag flag-cz"></i> ogame.cz</a></li>
+												<li><a href="hu"><i class="flag flag-hu"></i> ogame.hu</a></li>
+												<li><a href="tw"><i class="flag flag-tw"></i> ogame.tw</a></li>
+												<li><a href="ro"><i class="flag flag-ro"></i> ogame.ro</a></li>
+												<li><a href="si"><i class="flag flag-si"></i> ogame.si</a></li>
+												<li><a href="gr"><i class="flag flag-gr"></i> ogame.gr</a></li>
+											</ul>
+				</div>
+								<div class="btn-group pull-left" >
+					<a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
+						<span class="hidden-phone"> Cygnus </span><span class="caret"></span>
+					</a>
+					<ul class="dropdown-menu" id="servers">
+												<li><a href="es/23/galaxy">Andromeda</a></li>
+												<li><a href="es/28/galaxy">Fornax</a></li>
+												<li><a href="es/33/galaxy">Kassiopeia</a></li>
+												<li><a href="es/37/galaxy">Orion</a></li>
+												<li><a href="es/38/galaxy">Pegasus</a></li>
+												<li><a href="es/138/galaxy">Quantum</a></li>
+												<li><a href="es/396/galaxy">Rigel</a></li>
+												<li><a href="es/409/galaxy">Sirius</a></li>
+												<li><a href="es/424/galaxy">Taurus</a></li>
+												<li><a href="es/441/galaxy">Ursa</a></li>
+												<li><a href="es/454/galaxy">Vega</a></li>
+												<li><a href="es/464/galaxy">Wasat</a></li>
+												<li><a href="es/482/galaxy">Xalynth</a></li>
+												<li><a href="es/500/galaxy">Yakini</a></li>
+												<li><a href="es/522/galaxy">Zagadra</a></li>
+												<li><a href="es/532/galaxy">Antares</a></li>
+												<li><a href="es/549/galaxy">Betelgeuse</a></li>
+												<li><a href="es/557/galaxy">Cygnus</a></li>
+												<li><a href="es/573/galaxy">Deimos</a></li>
+												<li><a href="es/585/galaxy">Eridanus</a></li>
+												<li><a href="es/602/galaxy">Fidis</a></li>
+												<li><a href="es/614/galaxy">Ganimed</a></li>
+												<li><a href="es/630/galaxy">Hyperion</a></li>
+												<li><a href="es/644/galaxy">Izar</a></li>
+												<li><a href="es/656/galaxy">Japetus</a></li>
+												<li><a href="es/669/galaxy">Kallisto</a></li>
+												<li><a href="es/686/galaxy">Libra</a></li>
+												<li><a href="es/702/galaxy">Merkur</a></li>
+												<li><a href="es/22/galaxy">Universo 1</a></li>
+												<li><a href="es/45/galaxy">Universo 50</a></li>
+												<li><a href="es/53/galaxy">Universo 60</a></li>
+											</ul>
+				</div>								<div class="btn-group pull-right" >
+					<a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
+						<i class="icon-flag"></i> <span class="hidden-phone"> English </span>
+						<span class="caret"></span>
+					</a>
+					<ul class="dropdown-menu">
+												<li><a href="site/language/es/es/557/galaxy/1/1" rel="nofollow">
+							<i class="icon-blank"></i> Español</a></li>
+												<li><a href="site/language/gb/es/557/galaxy/1/1" rel="nofollow">
+							<i class="icon-blank icon-ok"></i> English</a></li>
+												<li><a href="site/language/de/es/557/galaxy/1/1" rel="nofollow">
+							<i class="icon-blank"></i> Deutsch</a></li>
+												<li><a href="site/language/fr/es/557/galaxy/1/1" rel="nofollow">
+							<i class="icon-blank"></i> Français</a></li>
+												<li><a href="site/language/ru/es/557/galaxy/1/1" rel="nofollow">
+							<i class="icon-blank"></i> русский</a></li>
+												<li><a href="site/language/pt/es/557/galaxy/1/1" rel="nofollow">
+							<i class="icon-blank"></i> Português</a></li>
+												<li><a href="site/language/pl/es/557/galaxy/1/1" rel="nofollow">
+							<i class="icon-blank"></i> Polski</a></li>
+												<li><a href="site/language/tr/es/557/galaxy/1/1" rel="nofollow">
+							<i class="icon-blank"></i> Türkçe</a></li>
+												<li><a href="site/language/it/es/557/galaxy/1/1" rel="nofollow">
+							<i class="icon-blank"></i> Italiano</a></li>
+												<li><a href="site/language/ro/es/557/galaxy/1/1" rel="nofollow">
+							<i class="icon-blank"></i> Romanian</a></li>
+											</ul>
+				</div>
+
+				<div class="btn-group pull-right" >
+					<a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
+						<i class="icon-wrench"></i><span class="hidden-phone"></span>
+						<span class="caret"></span>
+					</a>
+					<ul class="dropdown-menu">
+						<li><a href="site/flight_times"><i class="icon-time"></i> Flight Time Calculator</a></li>
+											</ul>
+				</div>
+				<div class="btn-group pull-right theme-container" >
+					<a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
+						<i class="icon-tint"></i><span class="hidden-phone"> Theme: Cyborg </span><span class="caret"></span>
+					</a>
+					<ul class="dropdown-menu" id="themes">
+												<li><a href="site/theme/cerulean/es/557/galaxy/1/1" rel="nofollow"><i class="icon-blank"></i> Cerulean</a></li>
+												<li><a href="site/theme/slate/es/557/galaxy/1/1" rel="nofollow"><i class="icon-blank"></i> Slate</a></li>
+												<li><a href="site/theme/united/es/557/galaxy/1/1" rel="nofollow"><i class="icon-blank"></i> United</a></li>
+												<li><a href="site/theme/journal/es/557/galaxy/1/1" rel="nofollow"><i class="icon-blank"></i> Journal</a></li>
+												<li><a href="site/theme/redy/es/557/galaxy/1/1" rel="nofollow"><i class="icon-blank"></i> Redy</a></li>
+												<li><a href="site/theme/cyborg/es/557/galaxy/1/1" rel="nofollow"><i class="icon-blank icon-ok"></i> Cyborg</a></li>
+												<li><a href="site/theme/spacelab/es/557/galaxy/1/1" rel="nofollow"><i class="icon-blank"></i> Spacelab</a></li>
+												<li><a href="site/theme/classic/es/557/galaxy/1/1" rel="nofollow"><i class="icon-blank"></i> Classic</a></li>
+												<li><a href="site/theme/simplex/es/557/galaxy/1/1" rel="nofollow"><i class="icon-blank"></i> Simplex</a></li>
+											</ul>
+				</div>
+				<div class="clearfix"></div>
+				<div class="pull-left">
+									</div>
+				<div class="pull-right">
+					&nbsp;
+										<script id="_waut83">var _wau = _wau || []; _wau.push(["small", "6uc7x1fficvk", "t83"]);
+					(function() {var s=document.createElement("script"); s.async=true;
+					s.src="http://widgets.amung.us/small.js";
+					document.getElementsByTagName("head")[0].appendChild(s);
+					})();</script>					
+									</div>
+				
+				<div class="clearfix"></div>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<noscript>
+			<div class="row">
+				<div class="alert alert-block span12">
+					<p>You must have javascript enabled in order to use some parts of the site</p>
+				</div>		
+			</div>
+		</noscript>
+		<div class="row">			
+			<div class="span2 main-menu-span">
+				<div class="well nav-collapse sidebar-nav">
+					<ul class="nav nav-tabs nav-stacked main-menu">
+						<li><a href="site/faq"><i class="icon-exclamation-sign"></i><span class="hidden-tablet"> FAQ &amp; Support</span></a></li>
+						<li><a href="site/recommended"><i class="icon-share"></i><span class="hidden-tablet"> Community tools</span></a></li>
+						<li><a href="site/evolution"><i class="icon-align-right"></i> Historical statistics</a></li>
+					</ul>
+				</div>
+			    			    <div class="visible-desktop">
+			        <div class="sidebar-ad">
+			            <script type="text/javascript"><!--
+			            google_ad_client = "ca-pub-1243866001028722";
+			            /* (A) Ogniter lateral */
+			            google_ad_slot = "8460031614";
+			            google_ad_width = 160;
+			            google_ad_height = 600;
+			            //-->
+			            </script>
+			            <script type="text/javascript"
+			            src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+			            </script>
+			        </div>
+			    </div>
+			    			    
+			    <div class="box above-me clearfix visible-desktop">
+					<div class="box-header well">
+						<h3><i class="icon-thumbs-up"></i> Social</h3>
+					</div>
+				    <div class="box-content center">		    
+				    	<a href="https://twitter.com/Ogniter" class="twitter-follow-button" data-show-count="false" data-dnt="true">Follow @Ogniter</a>
+				        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script><br /><br />
+
+				        <a href="http://www.facebook.com/ogniter" target="_blank">Visit Ogniter's Fan Page on Facebook</a><br />
+				        <div class="fb-like" data-href="http://www.facebook.com/ogniter" data-send="true" data-layout="box_count" data-width="100" data-show-faces="false"></div>
+				        <br />
+				        <div style="width: 74px; margin: 5px auto 0">
+				        <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<g:plusone></g:plusone></div>
+				        
+				    </div>
+			    </div>			    
+			    
+				
+
+			</div>
+			
+			<div id="content" class="span10">
+								<div class="h-ad">
+			        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- New Top Header -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-1243866001028722"
+     data-ad-slot="3683533774"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+				</div>				<div class="row-fluid">
+    <div class="span8">
+	<ul class="breadcrumb">
+		<li>
+			<a href="/">Home</a> <span class="divider">/</span>
+		</li>
+				<li>
+			<a href="es"><i class="flag flag-es"></i> ogame.com.es</a> <span class="divider">/</span>
+		</li>
+				<li>
+			<a href="es/557" > Cygnus</a> <span class="divider">/</span>
+		</li>
+		<li>
+			<a href="es/557/galaxy/1/1">Galaxy view [1:1]</a>
+		</li>
+					</ul>
+</div>
+	<div class="span4">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ogniter top quare -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-1243866001028722"
+     data-ad-slot="9869668175"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</div>
+
+<div class="row-fluid">
+	<div class="span9">
+				<ul class="nav nav-tabs">
+		    <li ><a href="es/557/search"><i class="icon-search"></i> Search</a></li>
+
+		    <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="javascript:;"><u><b>Ranking</b></u> <b class="caret"></b></a>
+		        <ul class="dropdown-menu">
+			    	<li><a href="es/557/ranking/1/0" title=""><i class="icon-user"></i> Player</a></li>
+			    	<li><a href="es/557/ranking/2/0" title=""><i class="icon-screenshot"></i> Alliance</a></li>
+		            <li><a href="es/557/top_flop"><i class="icon-retweet"></i> Top / Flop</a></li>
+		        </ul>
+		    </li>
+		    		    <li class="dropdown active">
+		        <a class="dropdown-toggle" data-toggle="dropdown" href="javascript:;"><u><b><i class="icon-globe"></i> Galaxy</b></u> <b class="caret"></b></a>
+		        <ul class="dropdown-menu">
+		            <li><a href="es/557/galaxy/1/1"><i class="icon-globe"></i> Galaxy view</a></li>
+		            <li><a href="es/557/track/moons/1"><i class="icon-adjust"></i> Moons</a></li>
+		            <li><a href="es/557/track/player-status/1/i"><i class="icon-question-sign"></i> Search planets by player's status</a></li>
+		            <li><a href="es/557/track/free-slots/1/0"><i class="icon-map-marker"></i> Colonize</a></li>
+		            <li><a href="es/557/track/bandits-emperors/1/2"><i class="icon-fast-forward"></i> Find Bandits or Emperors</a></li>
+		        </ul>
+		    </li>
+		    <li ><a href="es/557/comparison"><i class="icon-random"></i> Compare</a></li>
+		    		    <li class="dropdown">
+		        <a class="dropdown-toggle" data-toggle="dropdown" href="javascript:;"><b><u><i class="icon-wrench"></i> Tools</u></b> <b class="caret"></b></a>
+		        <ul class="dropdown-menu">
+		            <li><a href="es/557/flight_times"><i class="icon-time"></i> Flight Times</a></li>
+		            		        </ul>
+		    </li>
+		    		    <li class="dropdown">
+		        <a class="dropdown-toggle" data-toggle="dropdown" href="javascript:;"><b><u><i class="icon-info-sign"></i> Cygnus</u></b> <b class="caret"></b></a>
+		        <ul class="dropdown-menu">
+		            <li><a href="es/557"><i class="icon-info-sign"></i> Cygnus</a></li>
+		            <li><a href="es/557/evolution"><i class="icon-align-right"></i> Evolution</a></li>
+		        </ul>
+		    </li>
+		</ul>
+				<div class="box below-tab">
+			<div class="box-header well">
+				<h2><i class="icon-chevron-right icon-white"></i> Cygnus -  Galaxy view [1:1]</h2>
+			</div>
+			<div class="box-content clearfix">
+				<div class="pull-left">
+	Last update (Planets): <span class="label label-important">4 days ago</span></div>
+<div class="pull-right">
+	Next update (approx.): <span class="label label-important">In 3 days</span></div>
+<p>&nbsp;</p>
+<hr />
+<div>
+	<form class="form-inline" id="galaxy_form" method="post" action="es/557/galaxy">
+		<input type="hidden" name="csrf_test_name" id="csrf_test_name" value="" />
+		<div class="galaxy-container">
+			<div class="galaxy-view clearfix" id="galaxy_view">
+				<div class="galaxy-page">
+					<ul class="pager">
+					    <li class="previous">
+					    	<a href="es/557/galaxy/1/1" class="galaxy-change">&larr; [1:1]</a>
+					    </li>
+					    <li>
+						<label for="galaxy">Galaxy:</label>
+						<select class="input-mini" name="galaxy" id="galaxy">
+														<option value="1" selected="selected">1</option>
+														<option value="2" >2</option>
+														<option value="3" >3</option>
+														<option value="4" >4</option>
+														<option value="5" >5</option>
+														<option value="6" >6</option>
+														<option value="7" >7</option>
+														<option value="8" >8</option>
+														<option value="9" >9</option>
+													</select>
+						<label for="system">System:</label>
+						<input type="text" class="input-mini" name="system" id="system" value="1" placeholder="System" />
+						<input type="text" name="name" value="" class="hide" style="display:none" />
+						<input type="submit" class="submit btn btn-warning" value="Send" />
+					    </li>
+					    <li class="next">
+					    	<a href="es/557/galaxy/1/2" class="galaxy-change">[1:2] &rarr;</a>
+					    </li>
+				    </ul>
+					<table class="table table-striped table-bordered table-condensed table-hover text-center">
+						<thead>
+							<tr>
+								<th class="gal-pos">Location</th>
+								<th class="gal-pl text-center">Planet</th>
+								<th class="gal-mn text-center">Moon</th>
+								<th class="gal-ply"><i class="icon-user"></i> Player (status)</th>
+								<th class="gar-rk"><i class="icon-list-alt"></i> Position</th>
+								<th class="gal-ally"><i class="icon-screenshot"></i> Alliance</th>
+								<th class="text-center" style="width: 80px"><i class="icon-time"></i> Flight Times</th>
+							</tr>
+						</thead>
+						<tbody>
+													<tr>
+								<td class="gal-pos">[1:1:1]</td>
+								<td class="gal-pl text-left"><i class="icon-globe"></i> &nbsp;Heimatplanet								</td>
+								<td class="gal-mn text-left">								</td>
+																<td class="gal-ply text-left">									<a href="es/557/player/100003">
+										comagf									</a>  (a)																										</td>
+								<td class="gal-rk"><a href="es/557/ranking/1/0/position/ASC/0#player100003"></a></td>
+								<td class="gal-ally">								</td>
+																<td><a href="es/557/flight_times/1:1:1"><i class="icon-forward" title="Start"></i></a> &nbsp;
+									<a href="es/557/flight_times/-/1:1:1"><i class="icon-backward" title="Destination"></i></a></td>
+							</tr>
+													<tr>
+								<td class="gal-pos">[1:1:2]</td>
+								<td class="gal-pl text-left"><i class="icon-globe"></i> &nbsp;Arakis								</td>
+								<td class="gal-mn text-left"><a class="moon" href="javascript:;" data-size="4998"><i class="icon-adjust"></i> &nbsp;Mond</a> &nbsp;4998 km								</td>
+																<td class="gal-ply text-left">									<a href="es/557/player/1">
+										Legor									</a>  (a)																										</td>
+								<td class="gal-rk"><a href="es/557/ranking/1/0/position/ASC/0#player1"></a></td>
+								<td class="gal-ally">								</td>
+																<td><a href="es/557/flight_times/1:1:2"><i class="icon-forward" title="Start"></i></a> &nbsp;
+									<a href="es/557/flight_times/-/1:1:2"><i class="icon-backward" title="Destination"></i></a></td>
+							</tr>
+													<tr>
+								<td class="gal-pos">[1:1:3]</td>
+								<td class="gal-pl text-left"><i class="icon-globe"></i> &nbsp;GameAdmin								</td>
+								<td class="gal-mn text-left">								</td>
+																<td class="gal-ply text-left">									<a href="es/557/player/100000">
+										GameAdmin									</a>  (a)																										</td>
+								<td class="gal-rk"><a href="es/557/ranking/1/0/position/ASC/0#player100000"></a></td>
+								<td class="gal-ally">								</td>
+																<td><a href="es/557/flight_times/1:1:3"><i class="icon-forward" title="Start"></i></a> &nbsp;
+									<a href="es/557/flight_times/-/1:1:3"><i class="icon-backward" title="Destination"></i></a></td>
+							</tr>
+													<tr>
+								<td class="gal-pos">[1:1:4]</td>
+								<td class="gal-pl text-left"><i class="icon-globe"></i> &nbsp;Planeta Principal								</td>
+								<td class="gal-mn text-left">								</td>
+																<td class="gal-ply text-left">									<a href="es/557/player/100005">
+										OGameTech									</a>  (a)																										</td>
+								<td class="gal-rk"><a href="es/557/ranking/1/0/position/ASC/0#player100005"></a></td>
+								<td class="gal-ally">								</td>
+																<td><a href="es/557/flight_times/1:1:4"><i class="icon-forward" title="Start"></i></a> &nbsp;
+									<a href="es/557/flight_times/-/1:1:4"><i class="icon-backward" title="Destination"></i></a></td>
+							</tr>
+													<tr>
+								<td class="gal-pos">[1:1:5]</td>
+								<td class="gal-pl text-left"><i class="icon-globe"></i> &nbsp;Colonia								</td>
+								<td class="gal-mn text-left">								</td>
+																<td class="gal-ply text-left">									<a href="es/557/player/120750">
+										edwar									</a>  (v)																										</td>
+								<td class="gal-rk"><a href="es/557/ranking/1/0/position/ASC/0#player120750">381</a></td>
+								<td class="gal-ally">									<a href="es/557/alliance/1333" class="alliance1333">
+										[BULMA]									</a>
+									<a href="es/557/track/alliance/1/1333" class="label label-warning"><i class="icon-eye-open"></i></a>
+																	</td>
+																<td><a href="es/557/flight_times/1:1:5"><i class="icon-forward" title="Start"></i></a> &nbsp;
+									<a href="es/557/flight_times/-/1:1:5"><i class="icon-backward" title="Destination"></i></a></td>
+							</tr>
+													<tr>
+								<td class="gal-pos">[1:1:6]</td>
+								<td class="gal-pl text-left">								</td>
+								<td class="gal-mn text-left">								</td>
+																<td class="gal-ply"></td>
+								<td class="gal-rk"></td>
+								<td class="gal-ally"></td>
+																<td><a href="es/557/flight_times/1:1:6"><i class="icon-forward" title="Start"></i></a> &nbsp;
+									<a href="es/557/flight_times/-/1:1:6"><i class="icon-backward" title="Destination"></i></a></td>
+							</tr>
+													<tr>
+								<td class="gal-pos">[1:1:7]</td>
+								<td class="gal-pl text-left"><i class="icon-globe"></i> &nbsp;Kymsar								</td>
+								<td class="gal-mn text-left"><a class="moon" href="javascript:;" data-size="4189"><i class="icon-adjust"></i> &nbsp;Luna</a> &nbsp;4189 km								</td>
+																<td class="gal-ply text-left">									<a href="es/557/player/100091">
+										Kymsar									</a>  (Iv)																										</td>
+								<td class="gal-rk"><a href="es/557/ranking/1/0/position/ASC/0#player100091">900</a></td>
+								<td class="gal-ally">								</td>
+																<td><a href="es/557/flight_times/1:1:7"><i class="icon-forward" title="Start"></i></a> &nbsp;
+									<a href="es/557/flight_times/-/1:1:7"><i class="icon-backward" title="Destination"></i></a></td>
+							</tr>
+													<tr>
+								<td class="gal-pos">[1:1:8]</td>
+								<td class="gal-pl text-left"><i class="icon-globe"></i> &nbsp;GAIA								</td>
+								<td class="gal-mn text-left"><a class="moon" href="javascript:;" data-size="8774"><i class="icon-adjust"></i> &nbsp;THOR</a> &nbsp;8774 km								</td>
+																<td class="gal-ply text-left">									<a href="es/557/player/120749">
+										Raynkur									</a>  (v)																										</td>
+								<td class="gal-rk"><a href="es/557/ranking/1/0/position/ASC/0#player120749">236</a></td>
+								<td class="gal-ally">									<a href="es/557/alliance/6" class="alliance6">
+										[GRDNS]									</a>
+									<a href="es/557/track/alliance/1/6" class="label label-warning"><i class="icon-eye-open"></i></a>
+																	</td>
+																<td><a href="es/557/flight_times/1:1:8"><i class="icon-forward" title="Start"></i></a> &nbsp;
+									<a href="es/557/flight_times/-/1:1:8"><i class="icon-backward" title="Destination"></i></a></td>
+							</tr>
+													<tr>
+								<td class="gal-pos">[1:1:9]</td>
+								<td class="gal-pl text-left"><i class="icon-globe"></i> &nbsp;Colonia								</td>
+								<td class="gal-mn text-left">								</td>
+																<td class="gal-ply text-left">									<a href="es/557/player/100182">
+										Pony Fantasma									</a>  (Iv)																										</td>
+								<td class="gal-rk"><a href="es/557/ranking/1/0/position/ASC/0#player100182">288</a></td>
+								<td class="gal-ally">								</td>
+																<td><a href="es/557/flight_times/1:1:9"><i class="icon-forward" title="Start"></i></a> &nbsp;
+									<a href="es/557/flight_times/-/1:1:9"><i class="icon-backward" title="Destination"></i></a></td>
+							</tr>
+													<tr>
+								<td class="gal-pos">[1:1:10]</td>
+								<td class="gal-pl text-left">								</td>
+								<td class="gal-mn text-left">								</td>
+																<td class="gal-ply"></td>
+								<td class="gal-rk"></td>
+								<td class="gal-ally"></td>
+																<td><a href="es/557/flight_times/1:1:10"><i class="icon-forward" title="Start"></i></a> &nbsp;
+									<a href="es/557/flight_times/-/1:1:10"><i class="icon-backward" title="Destination"></i></a></td>
+							</tr>
+													<tr>
+								<td class="gal-pos">[1:1:11]</td>
+								<td class="gal-pl text-left"><i class="icon-globe"></i> &nbsp;Planeta Principal								</td>
+								<td class="gal-mn text-left"><a class="moon" href="javascript:;" data-size="5662"><i class="icon-adjust"></i> &nbsp;Luna</a> &nbsp;5662 km								</td>
+																<td class="gal-ply text-left">									<a href="es/557/player/100091">
+										Kymsar									</a>  (Iv)																										</td>
+								<td class="gal-rk"><a href="es/557/ranking/1/0/position/ASC/0#player100091">900</a></td>
+								<td class="gal-ally">								</td>
+																<td><a href="es/557/flight_times/1:1:11"><i class="icon-forward" title="Start"></i></a> &nbsp;
+									<a href="es/557/flight_times/-/1:1:11"><i class="icon-backward" title="Destination"></i></a></td>
+							</tr>
+													<tr>
+								<td class="gal-pos">[1:1:12]</td>
+								<td class="gal-pl text-left">								</td>
+								<td class="gal-mn text-left">								</td>
+																<td class="gal-ply"></td>
+								<td class="gal-rk"></td>
+								<td class="gal-ally"></td>
+																<td><a href="es/557/flight_times/1:1:12"><i class="icon-forward" title="Start"></i></a> &nbsp;
+									<a href="es/557/flight_times/-/1:1:12"><i class="icon-backward" title="Destination"></i></a></td>
+							</tr>
+													<tr>
+								<td class="gal-pos">[1:1:13]</td>
+								<td class="gal-pl text-left">								</td>
+								<td class="gal-mn text-left">								</td>
+																<td class="gal-ply"></td>
+								<td class="gal-rk"></td>
+								<td class="gal-ally"></td>
+																<td><a href="es/557/flight_times/1:1:13"><i class="icon-forward" title="Start"></i></a> &nbsp;
+									<a href="es/557/flight_times/-/1:1:13"><i class="icon-backward" title="Destination"></i></a></td>
+							</tr>
+													<tr>
+								<td class="gal-pos">[1:1:14]</td>
+								<td class="gal-pl text-left">								</td>
+								<td class="gal-mn text-left">								</td>
+																<td class="gal-ply"></td>
+								<td class="gal-rk"></td>
+								<td class="gal-ally"></td>
+																<td><a href="es/557/flight_times/1:1:14"><i class="icon-forward" title="Start"></i></a> &nbsp;
+									<a href="es/557/flight_times/-/1:1:14"><i class="icon-backward" title="Destination"></i></a></td>
+							</tr>
+													<tr>
+								<td class="gal-pos">[1:1:15]</td>
+								<td class="gal-pl text-left">								</td>
+								<td class="gal-mn text-left">								</td>
+																<td class="gal-ply"></td>
+								<td class="gal-rk"></td>
+								<td class="gal-ally"></td>
+																<td><a href="es/557/flight_times/1:1:15"><i class="icon-forward" title="Start"></i></a> &nbsp;
+									<a href="es/557/flight_times/-/1:1:15"><i class="icon-backward" title="Destination"></i></a></td>
+							</tr>
+												<tr>
+							<td class="gal-pos">[1:1:16]</td>
+							<td colspan="5">(Expedition)</td>
+							<td><a href="es/557/flight_times/-/1:1:16"><i class="icon-backward" title="Destination"></i></a></td>
+						</tr>
+						</tbody>
+					</table>
+				</div>
+				<div class="pull-left">
+					<a href="es/557/track/free-slots/1/0#system1">Occupied planets <span class="label">9/15</span></a>
+				</div>
+			</div>
+		</div>
+	</form>
+</div>
+			</div>				
+		</div>
+			</div>
+		<div class="span3">
+		<div class="box">
+			<div class="box-header well">
+				<h2><i class="icon-chevron-right icon-white"></i> Cygnus</h2>
+			</div>
+			<div class="box-content">
+				<table class="table-condensed table table-striped">
+					<tr><td><i class="icon-search"></i></td><td><a href="es/557/search"> Search</a></td></tr>
+					<tr><td><i class="icon-question-sign"></i></td><td><a href="es/557/track/player-status/1/i" title="Find by player's status"> Search planets by player's status</a></td></tr>
+					<tr><td><i class="icon-map-marker"></i></td><td><a href="es/557/track/free-slots/1/0" title="Colonize"> Colonize</a></td></tr>
+					<tr><td><i class="icon-fast-forward"></i></td><td><a href="es/557/track/bandits-emperors/1/2" title="Find Bandits or Emperors"> Find Bandits or Emperors</a></td></tr>
+					<tr><td><i class="icon-user"></i></td><td><a href="es/557/ranking/1/0" title=""> Statistics: Player</a></td></tr>
+					<tr><td><i class="icon-screenshot"></i></td><td><a href="es/557/ranking/2/0" title=""> Statistics: Alliance</a></td></tr>
+					<tr><td><i class="icon-retweet"></i></td><td><a href="es/557/top_flop"> Top / Flop</a></td></tr>
+					<tr><td><i class="icon-random"></i></td><td><a href="es/557/comparison"> Compare</a></td></tr>
+					<tr><td><i class="icon-align-right"></i></td><td><a href="es/557/evolution"> Evolution</a></td></tr>
+					<tr><td><i class="icon-info-sign"></i></td><td><a href="es/557"> Server information</a></td></tr>
+				</table>			
+			</div>
+		</div>		
+		<div class="box above-me twitter-box">
+								<a class="twitter-timeline" height="424" href="https://twitter.com/Ogniter" data-widget-id="308202423401451520">Tweets by @Ogniter</a>
+					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>		</div>
+	</div>
+		
+		
+</div>							</div>
+		</div>			
+		<hr>
+		<footer>
+			<p class="pull-left"><a href="http://developer.buscandoquehacer.com" target="_blank"> &copy; Donato Laynes</a> 2013-2015</p>
+						<p class="pull-right"><a href="http://www.gameforge.com" target="_blank">Ogame is a multiplayer online game, created by Gameforge</a>.</p>
+		</footer>
+	</div>
+	<script src="//cdn.ogniter.org/js/combined.js"></script>
+	<script src="//cdn.ogniter.org/js/mvc/routes/main.js"></script>
+		<script>(function(d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		js = d.createElement(s); js.id = id;
+		js.src = "//connect.facebook.net/en_EN/all.js#xfbml=1&appId=453851131318585";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+		</body>
+</html>
